@@ -25,7 +25,7 @@ def checkwin(xstate, zstate):
            print('x won the match')
            return 1
         if(sum(zstate[win[0]],zstate[win[1]],zstate[win[2]]) == 3):
-           print('0 won the match')
+           print('o won the match')
            return 0
     return -1    
 
