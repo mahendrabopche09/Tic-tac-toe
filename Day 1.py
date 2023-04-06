@@ -77,9 +77,10 @@ def display_message(message):
 display_message('show me the money')  '''
 
 # function pass keyword(pass statement)
-def dream_home():cd
+'''
+def dream_home():
     pass
-#pass no error
+#pass no error'''
 
 # passing function as Arguments to other function.
 
